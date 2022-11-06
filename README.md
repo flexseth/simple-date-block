@@ -4,6 +4,7 @@
 - [ ] Internationalization
 - [ ] Formatting / block controls
 - [ ] Test in header, main, sidebar footer templates
+- [ ] Add option to allow block to render in users locale, instead of site timezone
 
 ### Block Editor
 - [ ] Backend UI (edit.js) - Server Side render on admin, or pull from save attributes
