@@ -2,7 +2,8 @@
 
 - [ ] Sanitize Output
 - [ ] Internationalization
-- [ ] Add wrappers for header, main, footer templates?
+- [ ] Formatting / block controls
+- [ ] Test in header, main, sidebar footer templates
 
 ### Block Editor
 - [ ] Backend UI (edit.js) - Server Side render on admin?
