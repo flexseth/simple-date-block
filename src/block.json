@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "flex-perception/fp-simple-date-block",
+	"version": "0.1.0",
+	"title": "Simple Date Block",
+	"category": "widgets",
+	"icon": "calendar",
+	"description": "Shows todays date, helpful for news sites, travel sites, personal and portfolio websites, really anywhere that the date is contextually helpful and should be widely visable. Recommended placement is the header.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "fp-simple-date-block",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"render": "file:./render.php"
+}

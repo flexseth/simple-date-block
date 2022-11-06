@@ -1,0 +1,21 @@
+{
+	"name": "fp-simple-date-block",
+	"version": "0.1.0",
+	"description": "Shows todays date, helpful for news sites, travel sites, personal and portfolio websites, really anywhere that the date is contextually helpful and should be widely visable. Recommended placement is the header.",
+	"author": "Seth Miller",
+	"license": "GNU General Public License v3.0",
+	"homepage": "https://github.com/flexseth/simple-date-block",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "wp-scripts build --webpack-copy-php",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"start": "wp-scripts start --webpack-copy-php"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^24.5.0"
+	}
+}
