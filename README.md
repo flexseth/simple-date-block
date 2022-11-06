@@ -1,7 +1,7 @@
 ### TODO
 
-- Sanitize Output
-- Internationalization
+- [ ] Sanitize Output
+- [ ] Internationalization
 
 - Allow users to set custom date format
 - Styleable
