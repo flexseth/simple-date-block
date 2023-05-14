@@ -1,3 +1,8 @@
+# Simple Date Block
+A really simple date block that outputs the current date based on how the user has their WordPress installation configured to show dates.
+
+This is a proof of concept, and showcases use of dynamic block building and using php to render.
+
 ### TODO
 
 - [ ] Sanitize Output
